@@ -1,0 +1,13 @@
+Sample play application to test SOAP services
+==============================================
+
+This file will be packaged with your application when using `activator dist`.
+
+
+Once you run the application, you can make requests to
+
+    localhost:9000/async
+
+Make sure SOAP server is running and accessible to before we start
+
+
